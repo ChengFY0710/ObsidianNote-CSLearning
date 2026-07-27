@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a41bbe80ce18bcf",
+            "id": "06f7411212374d69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm-Learning/2-数组/01-二分查找.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "01-二分查找"
             }
           }
         ]
@@ -180,26 +184,30 @@
       "vscode-editor:新建代码文件": false
     }
   },
-  "active": "af1b08a1b260cbd4",
+  "active": "06f7411212374d69",
   "lastOpenFiles": [
+    "引用文件/Algorithm-Learning/2-01-3.jpg",
+    "引用文件/Algorithm-Learning/2-01-2.jpg",
+    "引用文件/Algorithm-Learning/2-01-1.jpg",
+    "Algorithm-Learning/2-数组/01-二分查找.md",
+    "Algorithm-Learning/1-算法基础/01-时间复杂度.md",
+    "未命名",
+    "Algorithm-Learning/2-数组",
+    "引用文件/Algorithm-Learning/1-01-3.png",
+    "引用文件/Algorithm-Learning/1-01-2.png",
+    "C-Learning/1-笔记/02 - 输入和输出/02 - 1 printf() 函数.md",
     "C-Learning/1-笔记/01 - 初识C语言/01 - 2 算法.md",
     "C-Learning/1-笔记/01 - 初识C语言/01 - 1 什么是C语言.md",
-    "Algorithm-Learning/算法基础/01-时间复杂度.md",
     "C++-Learning/1-笔记/05-数据抽象—对象与类/05-1_类.md",
     "C++-Learning/1-笔记/01-C++预备知识/01-1_编译和链接.md",
-    "C-Learning/1-笔记/02 - 输入和输出/02 - 1 printf() 函数.md",
     "C-Learning/1-笔记/02 - 输入和输出/02 - 0 字符串.md",
     "README.md",
     "引用文件/C-Learning/09 - 1 - 2.png",
     "引用文件/C-Learning/02 - 2 - 2.png",
-    "引用文件/Algorithm-Learning/Pasted image 20260727135210.png",
+    "引用文件/Algorithm-Learning/1-01-1.png",
     "引用文件/C++-Learning/05-5-2.png",
     "引用文件/C++-Learning/05-5-1.png",
     "引用文件/C++-Learning/05-1-1.png",
-    "引用文件/C-Learning/15 - 2 - 1.png",
-    "引用文件/C-Learning/15 - 1 - 1.png",
-    "引用文件/C-Learning/14 - 2 - 1.png",
-    "引用文件/C-Learning/14 - 1 - 2.png",
     "C-Learning/1-笔记/02 - 输入和输出/02 - 2 scanf() 函数.md",
     "引用文件/C++-Learning",
     "引用文件/C-Learning",
@@ -207,14 +215,12 @@
     "未命名.canvas",
     "2026-07-27.md",
     "Fronted_Develop-Learning/HTML/视频和音频标签.md",
-    "Algorithm-Learning/算法基础",
+    "Algorithm-Learning/1-算法基础",
     "Fronted_Develop-Learning/HTML",
     "Algorithm-Learning",
     "Fronted_Develop-Learning",
     "C-Learning/2-好题/不进位相加.c",
     "Java-Learning/java中的内存分配.md",
-    "Java-Learning",
-    "C++-Learning/附录资料",
     "C++-Learning/1-笔记/待定-模板/0x-2_STL编程.md",
     "C++-Learning/1-笔记/待定-模板/0x-1_模板.md",
     "C++-Learning/1-笔记/05-数据抽象—对象与类/05-5_对象的初始化和消亡前处理.md",
@@ -226,8 +232,6 @@
     "C-Learning/1-笔记/07 - 数组/07 - 2 二维数组.md",
     "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 5 链表.md",
     "C-Learning/1-笔记/13 - 字符输入和输出验证/13 - 2 缓冲区.md",
-    "C-Learning/1-笔记/13 - 字符输入和输出验证/13 - 1 getchar()和putchar()函数.md",
-    "C-Learning/3-算法/1 - 算法：高精度算法.md",
-    "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 1 结构变量.md"
+    "C-Learning/1-笔记/13 - 字符输入和输出验证/13 - 1 getchar()和putchar()函数.md"
   ]
 }
