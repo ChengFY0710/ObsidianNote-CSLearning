@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "2c2ed2ff1dc69c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdcb95615987194f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaab023326f16669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm-Learning/算法基础/01-时间复杂度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-时间复杂度"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8531572ba3e08280",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b4491d7579a8d1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af1b08a1b260cbd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "da2af34dfa227acf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "strlen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0f95ee8845d0c8bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d3da1c6f5f0f830",
+    "type": "split",
+    "children": [
+      {
+        "id": "f311e4ce4f888260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e4daff090f8bdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithm-Learning/算法基础/01-时间复杂度.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01-时间复杂度 的反向链接列表"
+            }
+          },
+          {
+            "id": "fa7d2acd7ed448d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 1 结构变量.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "12 - 1 结构变量 的出链列表"
+            }
+          },
+          {
+            "id": "068939dd7a51ac47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ba586478ddd8119b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2b98cb6f5a408ef2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 1 结构变量.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "12 - 1 结构变量 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "vscode-editor:新建代码文件": false
+    }
+  },
+  "active": "eaab023326f16669",
+  "lastOpenFiles": [
+    "Algorithm-Learning/算法基础/01-时间复杂度.md",
+    "未命名.canvas",
+    "2026-07-27.md",
+    "Fronted_Develop-Learning/HTML/视频和音频标签.md",
+    "Algorithm-Learning/算法基础",
+    "Fronted_Develop-Learning/HTML",
+    "Algorithm-Learning",
+    "Fronted_Develop-Learning",
+    "C-Learning/2-好题/不进位相加.c",
+    "README.md",
+    "C-Learning/1-笔记/02 - 输入和输出/02 - 0 字符串.md",
+    "引用文件/05-5-2.png",
+    "引用文件/05-5-1.png",
+    "引用文件/05-1-1.png",
+    "Java-Learning/java中的内存分配.md",
+    "Java-Learning/java-02.png",
+    "Java-Learning/java-01.png",
+    "Java-Learning",
+    "C++-Learning/附录资料",
+    "C++-Learning/3-算法",
+    "C++-Learning/2-好题",
+    "C++-Learning/1-笔记/待定-模板/0x-2_STL编程.md",
+    "C++-Learning/1-笔记/待定-模板/0x-1_模板.md",
+    "C++-Learning/1-笔记/待定-模板",
+    "C++-Learning/1-笔记/05-数据抽象—对象与类/05-5_对象的初始化和消亡前处理.md",
+    "C++-Learning/1-笔记/05-数据抽象—对象与类/05-4_this指针.md",
+    "C++-Learning/1-笔记/01-C++预备知识/01-1_编译和链接.md",
+    "C++-Learning/1-笔记/05-数据抽象—对象与类/05-3_对象的创建和操作.md",
+    "C++-Learning/1-笔记/05-数据抽象—对象与类/05-2_访问控制.md",
+    "C++-Learning/1-笔记/05-数据抽象—对象与类/05-1_类.md",
+    "C-Learning/1-笔记/09 - 指针/09 - 3 指针和数组.md",
+    "C-Learning/1-笔记/07 - 数组/07 - 1 一维数组.md",
+    "C-Learning/1-笔记/07 - 数组/07 - 2 二维数组.md",
+    "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 5 链表.md",
+    "C-Learning/1-笔记/13 - 字符输入和输出验证/13 - 2 缓冲区.md",
+    "C-Learning/1-笔记/13 - 字符输入和输出验证/13 - 1 getchar()和putchar()函数.md",
+    "C-Learning/3-算法/1 - 算法：高精度算法.md",
+    "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 1 结构变量.md",
+    "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 3 枚举类型.md",
+    "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 4 typedef工具和其他复杂声明.md",
+    "C-Learning/1-笔记/12 - 结构和其他数据形式/12 - 2 联合变量.md",
+    "C-Learning/2-好题/汉诺塔问题01.png"
+  ]
+}
