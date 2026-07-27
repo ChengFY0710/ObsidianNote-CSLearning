@@ -1,6 +1,6 @@
 {
-  "textFontFamily": "MiSans",
+  "textFontFamily": "SF Pro Text",
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSizeAction": true,
-  "baseFontSize": 20
+  "baseFontSize": 18
 }
