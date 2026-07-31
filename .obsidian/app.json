@@ -8,5 +8,10 @@
   },
   "readableLineLength": false,
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "引用文件/Algorithm-Learning",
+  "newLinkFormat": "absolute",
+  "strictLineBreaks": false,
+  "settingsPopoutWindow": false
 }
