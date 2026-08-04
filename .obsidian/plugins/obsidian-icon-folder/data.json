@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeCheck",
       "LiAlignCenter",
       "📕",
       "📘",
-      "📗",
-      "LiAlbum"
+      "📗"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "C++-Learning": "LiAlbum",
   "Java-Learning": "LiAlbum",
   "Fronted_Develop-Learning": "LiAlbum",
-  "Algorithm-Learning": "LiAlbum"
+  "Algorithm-Learning": "LiAlbum",
+  "任务": "LiBadgeCheck"
 }
