@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6dcfdebf0717cb27",
+        "id": "081b0b907dea6ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6d5ac192656065",
+            "id": "3a09864de3b476b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-1 Web样式简介.md",
+                "file": "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-1 Web样式简介"
-            }
-          },
-          {
-            "id": "b58b2808b5d88c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "任务/2026-08-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-05"
+              "title": "03-两个数组的交集"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务/2026-08-05.md",
+                "file": "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 354,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,54 +212,54 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "b58b2808b5d88c5c",
+  "active": "3a09864de3b476b6",
   "lastOpenFiles": [
-    "任务/2026-08-04.md",
-    "任务/2026-08-05.md",
+    "C++-Learning/1-笔记/STL/无序容器/01-unordered_set.md",
+    "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
+    "Algorithm-Learning/4-哈希表/01-哈希表理论基础.md",
+    "C++-Learning/1-笔记/STL/待定-vector/vector二维数组.md",
+    "C++-Learning/1-笔记/STL/无序容器",
+    "C++-Learning/1-笔记/STL",
+    "引用文件/Algorithm-Learning/4-03-1.png",
+    "Algorithm-Learning/4-哈希表/02-有效的字母异位词.md",
+    "任务/2026-08-11.md",
+    "引用文件/Algorithm-Learning/4-02-1.gif",
+    "引用文件/Algorithm-Learning/4-01-4.png",
+    "引用文件/Algorithm-Learning/Pasted image 20260815131453.png",
+    "引用文件/Algorithm-Learning/4-01-3.png",
+    "引用文件/Algorithm-Learning/4-01-2.png",
+    "引用文件/Algorithm-Learning/4-01-1.png",
+    "Algorithm-Learning/4-哈希表",
+    "Algorithm-Learning/2-数组/01-二分查找.md",
+    "Algorithm-Learning/2-数组/06-区间和.md",
+    "Algorithm-Learning/2-数组/04-长度最小的子数组.md",
+    "Algorithm-Learning/3-链表/01-链表基础.md",
+    "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-3 CSS中的内容.md",
+    "引用文件/CSS/01-3-1.png",
+    "引用文件/CSS",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-1 Web样式简介.md",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-2 将CSS应用到HTML上.md",
+    "任务/2026-09-05.md",
+    "任务/2026-09-04.md",
+    "任务/2026-09-03.md",
+    "任务/2026-08-05.md",
+    "任务/2026-09-02.md",
+    "任务/2026-09-01.md",
+    "任务/2026-08-31.md",
+    "任务/2026-08-30.md",
+    "任务/2026-08-29.md",
+    "任务/2026-08-28.md",
+    "任务/2026-08-27.md",
+    "任务/2026-08-26.md",
+    "任务/2026-08-25.md",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档",
     "Fronted_Develop-Learning/CSS",
-    "Algorithm-Learning/2-数组/06-区间和.md",
     "Algorithm-Learning/3-链表",
     "引用文件/Algorithm-Learning/2-06-1.png",
-    "Algorithm-Learning/2-数组/05-螺旋矩阵II.md",
-    "Algorithm-Learning/2-数组/03-有序数组的平方.md",
     "引用文件/Algorithm-Learning/2-05-1.png",
-    "C++-Learning/1-笔记/待定-vector/vector二维数组.md",
-    "引用文件/C++-Learning/待定-1.png",
     "vecto",
-    "C++-Learning/1-笔记/待定-vector",
-    "Algorithm-Learning/2-数组/04-长度最小的子数组.md",
-    "C++-Learning/1-笔记/待定-模板/0x-1_模板.md",
-    "C++-Learning/1-笔记/待定-模板/0x-2_STL编程.md",
-    "Algorithm-Learning/2-数组/01-二分查找.md",
-    "任务/2026-08-03.md",
-    "TaskNotes/Start Here.md",
+    "C++-Learning/1-笔记/STL/待定-vector",
     "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/tasks-default.base",
-    "2026-08-03.md",
-    "2026-08-05.md",
-    "C-Learning/1-笔记/06 - 分支和跳转/06 - 2 多重选择 switch和break.md",
-    "C-Learning/1-笔记/06 - 分支和跳转/06 - 1 if语句和if else语句.md",
-    "DailyTask.md",
-    "Fronted_Develop-Learning/HTML/视频和音频标签.md",
-    "Java-Learning/java-02.png",
-    "Java-Learning/java-01.png",
-    "Algorithm-Learning/2-数组/02-移除元素.md",
-    "C-Learning/1-笔记/10 - 字符串和字符串函数/10 - 1 字符串、数组和指针.md",
-    "C-Learning/1-笔记/04 - 运算符和C语句/04 - 1 运算符.md",
-    "C-Learning/1-笔记/04 - 运算符和C语句/04 - 2 C语句.md",
-    "引用文件/Algorithm-Learning/2-04-2.png",
-    "引用文件/Algorithm-Learning/2-04-1.gif",
-    "README.md",
-    "引用文件/Algorithm-Learning/2-03-1.gif",
-    "引用文件/Algorithm-Learning/2-02-2.gif",
-    "引用文件/Algorithm-Learning/2-02-1.gif",
-    "Algorithm-Learning/1-算法基础/01-时间复杂度.md",
     "未命名.canvas"
   ]
 }
