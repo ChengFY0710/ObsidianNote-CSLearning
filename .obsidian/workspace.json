@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "081b0b907dea6ad8",
+        "id": "58a7883ebccfb840",
         "type": "tabs",
         "children": [
           {
-            "id": "3a09864de3b476b6",
+            "id": "a092223980e7e1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
+                "file": "Data_Structure-Learning/2-线性结构/02-线性表的并集归集算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-两个数组的交集"
+              "title": "02-线性表的并集归集算法"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d3da1c6f5f0f830",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
+                "file": "Data_Structure-Learning/2-线性结构/03-顺序表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,30 +213,45 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "3a09864de3b476b6",
+  "active": "a092223980e7e1cc",
   "lastOpenFiles": [
-    "C++-Learning/1-笔记/STL/无序容器/01-unordered_set.md",
+    "C++-Learning/1-笔记/STL/algorithm-equal()函数.md",
+    "Data_Structure-Learning/2-线性结构/02-线性表的并集归集算法.md",
+    "C++-Learning/1-笔记/STL/algorithm-equal()函数equal()函数详解.md",
+    "Data_Structure-Learning/2-线性结构/03-顺序表.md",
+    "Data_Structure-Learning/2-线性结构/01-线性表的相关概念.md",
+    "引用文件/DataStructure-Learning/2-01-3.png",
+    "引用文件/DataStructure-Learning/2-01-2.png",
+    "Data_Structure-Learning/1-绪论.md",
+    "引用文件/DataStructure-Learning/1-1.png",
+    "引用文件/DataStructure-Learning/2-01-1.png",
+    "引用文件/DataStructure-Learning",
+    "Data_Structure-Learning/2-线性结构",
+    "Java-Learning/java-01.png",
+    "Data_Structure-Learning",
     "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
+    "Untitled",
     "Algorithm-Learning/4-哈希表/01-哈希表理论基础.md",
+    "Algorithm-Learning/4-哈希表/02-有效的字母异位词.md",
+    "Algorithm-Learning/2-数组/02-移除元素.md",
+    "Algorithm-Learning/2-数组/01-二分查找.md",
+    "Algorithm-Learning/2-数组/03-有序数组的平方.md",
+    "Algorithm-Learning/2-数组/05-螺旋矩阵II.md",
+    "Algorithm-Learning/2-数组/04-长度最小的子数组.md",
+    "Algorithm-Learning/2-数组/06-区间和.md",
+    "C++-Learning/1-笔记/STL/无序容器/01-unordered_set.md",
     "C++-Learning/1-笔记/STL/待定-vector/vector二维数组.md",
     "C++-Learning/1-笔记/STL/无序容器",
     "C++-Learning/1-笔记/STL",
     "引用文件/Algorithm-Learning/4-03-1.png",
-    "Algorithm-Learning/4-哈希表/02-有效的字母异位词.md",
     "任务/2026-08-11.md",
     "引用文件/Algorithm-Learning/4-02-1.gif",
     "引用文件/Algorithm-Learning/4-01-4.png",
     "引用文件/Algorithm-Learning/Pasted image 20260815131453.png",
     "引用文件/Algorithm-Learning/4-01-3.png",
-    "引用文件/Algorithm-Learning/4-01-2.png",
-    "引用文件/Algorithm-Learning/4-01-1.png",
     "Algorithm-Learning/4-哈希表",
-    "Algorithm-Learning/2-数组/01-二分查找.md",
-    "Algorithm-Learning/2-数组/06-区间和.md",
-    "Algorithm-Learning/2-数组/04-长度最小的子数组.md",
     "Algorithm-Learning/3-链表/01-链表基础.md",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-3 CSS中的内容.md",
-    "引用文件/CSS/01-3-1.png",
     "引用文件/CSS",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-1 Web样式简介.md",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-2 将CSS应用到HTML上.md",
@@ -243,23 +259,8 @@
     "任务/2026-09-04.md",
     "任务/2026-09-03.md",
     "任务/2026-08-05.md",
-    "任务/2026-09-02.md",
-    "任务/2026-09-01.md",
-    "任务/2026-08-31.md",
-    "任务/2026-08-30.md",
-    "任务/2026-08-29.md",
-    "任务/2026-08-28.md",
-    "任务/2026-08-27.md",
-    "任务/2026-08-26.md",
-    "任务/2026-08-25.md",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档",
     "Fronted_Develop-Learning/CSS",
-    "Algorithm-Learning/3-链表",
-    "引用文件/Algorithm-Learning/2-06-1.png",
-    "引用文件/Algorithm-Learning/2-05-1.png",
-    "vecto",
-    "C++-Learning/1-笔记/STL/待定-vector",
-    "TaskNotes/Views/relationships.base",
     "未命名.canvas"
   ]
 }
