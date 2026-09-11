@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8afc0f9f7ac296",
+        "id": "829ece837f0943da",
         "type": "tabs",
         "children": [
           {
-            "id": "8888440f9fa05e7c",
+            "id": "926fc09b7498e96b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data_Structure-Learning/2-线性结构/05-线性表的链式存储：静态链表.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "05-线性表的链式存储：静态链表"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d3da1c6f5f0f830",
@@ -208,19 +213,37 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "8888440f9fa05e7c",
+  "active": "926fc09b7498e96b",
   "lastOpenFiles": [
+    "引用文件/DataStructure-Learning/2-05-3.png",
+    "引用文件/DataStructure-Learning/2-05-2.png",
+    "C-Learning/2-好题/汉诺塔问题.md",
+    "C-Learning/1-笔记/03 - 数据/03 - 1 变量.md",
+    "README.md",
     "Data_Structure-Learning/2-线性结构/05-线性表的链式存储：静态链表.md",
+    "Algorithm-Learning/4-哈希表/例题：静态链表-哈希表.md",
+    "引用文件/Algorithm-Learning/4-test1-1.png",
+    "引用文件/Algorithm-Learning/4-test1-2.png",
+    "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
+    "Algorithm-Learning/4-哈希表/02-有效的字母异位词.md",
+    "Algorithm-Learning/4-哈希表/01-哈希表理论基础.md",
+    "C++-Learning/1-笔记/STL/C++输出前导零.md",
+    "C++-Learning/1-笔记/STL/algorithm-equal()函数.md",
     "Data_Structure-Learning/2-线性结构/04-线性表的链式存储：线性（单）链表.md",
+    "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-1 Web样式简介.md",
+    "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-3 CSS中的内容.md",
+    "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-2 将CSS应用到HTML上.md",
+    "引用文件/DataStructure-Learning/2-04-1.png",
+    "Data_Structure-Learning/2-线性结构/03-顺序表.md",
+    "Data_Structure-Learning/2-线性结构/02-线性表的并集归集算法.md",
+    "Data_Structure-Learning/2-线性结构/01-线性表的相关概念.md",
+    "引用文件/DataStructure-Learning/2-05-1.png",
+    "未命名.canvas",
     "C-Learning/1-笔记/14 - 位操作/14 - 3 C按位运算符.md",
     "C-Learning/1-笔记/05 - 循环/05 - 3 do while循环.md",
     "C++-Learning/1-笔记/01-C++预备知识/01-1_编译和链接.md",
-    "Data_Structure-Learning/2-线性结构/03-顺序表.md",
     "C-Learning/1-笔记/11 - 存储类别、链接和内存管理/11 - 3 分配内存.md",
-    "Data_Structure-Learning/2-线性结构/02-线性表的并集归集算法.md",
-    "C++-Learning/1-笔记/STL/algorithm-equal()函数.md",
     "C++-Learning/1-笔记/STL/algorithm-equal()函数equal()函数详解.md",
-    "Data_Structure-Learning/2-线性结构/01-线性表的相关概念.md",
     "引用文件/DataStructure-Learning/2-01-3.png",
     "引用文件/DataStructure-Learning/2-01-2.png",
     "Data_Structure-Learning/1-绪论.md",
@@ -230,32 +253,14 @@
     "Data_Structure-Learning/2-线性结构",
     "Java-Learning/java-01.png",
     "Data_Structure-Learning",
-    "Algorithm-Learning/4-哈希表/03-两个数组的交集.md",
     "Untitled",
-    "Algorithm-Learning/4-哈希表/01-哈希表理论基础.md",
-    "Algorithm-Learning/4-哈希表/02-有效的字母异位词.md",
     "Algorithm-Learning/2-数组/02-移除元素.md",
     "Algorithm-Learning/2-数组/01-二分查找.md",
-    "Algorithm-Learning/2-数组/03-有序数组的平方.md",
-    "Algorithm-Learning/2-数组/05-螺旋矩阵II.md",
-    "Algorithm-Learning/2-数组/04-长度最小的子数组.md",
-    "Algorithm-Learning/2-数组/06-区间和.md",
-    "C++-Learning/1-笔记/STL/无序容器/01-unordered_set.md",
-    "C++-Learning/1-笔记/STL/待定-vector/vector二维数组.md",
     "C++-Learning/1-笔记/STL/无序容器",
     "C++-Learning/1-笔记/STL",
-    "引用文件/Algorithm-Learning/4-03-1.png",
-    "任务/2026-08-11.md",
-    "引用文件/Algorithm-Learning/4-02-1.gif",
-    "引用文件/Algorithm-Learning/4-01-4.png",
-    "引用文件/Algorithm-Learning/Pasted image 20260815131453.png",
-    "引用文件/Algorithm-Learning/4-01-3.png",
     "Algorithm-Learning/4-哈希表",
-    "Algorithm-Learning/3-链表/01-链表基础.md",
-    "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档/01-3 CSS中的内容.md",
     "引用文件/CSS",
     "Fronted_Develop-Learning/CSS/Chapter01-CSS和文档",
-    "Fronted_Develop-Learning/CSS",
-    "未命名.canvas"
+    "Fronted_Develop-Learning/CSS"
   ]
 }
