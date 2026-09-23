@@ -48,6 +48,7 @@ var age = ArrayList<Int>()
 >[!tip] 两种method的区别
 >`arrayListOf`方法，可以在创建数组时向数组重添加元素，而`ArrayList`方法，向数组中添加元素的前提是已经创建好了这个数组。
 
+## 03 数组操作
 ### （1）增删元素
 ```kotlin
 var age = ArrayList<Int>()
@@ -57,6 +58,10 @@ age.remove(10)
 age.removeAt(index:1)
 ```
 
++ **add()方法**：可以向数组末尾增加元素，也可以向数组中插入元素。
++ **remove()方法**：可以删除数组中的元素，两种方式，其一是 `remove(elementValue)`，其二是 `removeAt(index)`。
+
+示例：
 ```kotlin
 package com.chengfy.firstkotlinprogram  
   
